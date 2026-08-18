@@ -13,7 +13,7 @@
 
 Exercício de aquecimento (retorno após pausa de estudos) aplicando `logging` estruturado — prática observada no acompanhamento de um tutorial de pipeline de engenharia de dados — em uma rotina simples de limpeza de dados vindos do MySQL: conversão de tipo e remoção de duplicatas.
 
-O foco não foi o tratamento em si (já dominado em projetos anteriores), mas a qualidade da **observabilidade** do processo: registrar cada etapa de forma clara e proporcional à sua importância.
+O foco não foi o tratamento em si (já dominado em projetos anteriores), mas sim a qualidade da **observabilidade** do processo: registrar cada etapa de forma clara e proporcional à sua importância.
 
 ---
 
